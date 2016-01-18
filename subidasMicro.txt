@@ -1,0 +1,4 @@
+M.Rodriguez,Manuel.Recabarren,Las.Tranqueras
+M.Rodriguez,Manuel.Recabarren,Caupolican.FACMED
+Caupolican.SantaIsabel,Portal,U.Autonoma
+M.Rodriguez,SanMartin.Unimarc,GreenHouse
